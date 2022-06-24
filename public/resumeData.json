@@ -4,17 +4,17 @@
     "occupation": "Web Developer",
     "description": "I love making websites",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Udbhav! I am a rising Sophomore at the University of Victoria, I have a strong full stack background and practically spend my entire day working on react websites. For the past 2 years I have been learning techologies such as Prisma, Graph QL, NextJS, Chakra UI, TailWind CSS and many others. ",
+    "bio": "Hi there! I am Udbhav! I am a rising sophomore at the University of Victoria. I have a strong full-stack background and practically spend my entire day working on React websites. For the past 2 years, I have been learning technologies such as Prisma, Graph QL, NextJS, Chakra UI, Tailwind CSS and many others.",
     "contactmessage": "Get in touch with me at udbhav.agarwal7@gmail.com",
     "email": "udbhav.agarwal7@gmail.com",
     "phone": "+1 250-891-8441",
     "address": {
-      "street": "2571 Cook Street",
-      "city": "Victoria",
+      "street": "2571 Cook Street,",
+      "city": "Victoria,",
       "state": "British Columbia",
       "zip": "V8T 3R8"
     },
-    "website": "https://www.papareact.com/course",
+    "website": "https://udbhavagarwal.netlify.app",
     "resumedownload": "http://papareact.com",
     "social": [
       {
