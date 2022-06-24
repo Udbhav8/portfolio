@@ -1,0 +1,89 @@
+{
+  "main": {
+    "name": "Udbhav Agarwal",
+    "occupation": "Web Developer",
+    "description": "I love making websites",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Udbhav! I am a rising Sophomore at the University of Victoria, I have a strong full stack background and practically spend my entire day working on react websites. For the past 2 years I have been learning techologies such as Prisma, Graph QL, NextJS, Chakra UI, TailWind CSS and many others. ",
+    "contactmessage": "Get in touch with me at udbhav.agarwal7@gmail.com",
+    "email": "udbhav.agarwal7@gmail.com",
+    "phone": "+1 250-891-8441",
+    "address": {
+      "street": "2571 Cook Street",
+      "city": "Victoria",
+      "state": "British Columbia",
+      "zip": "V8T 3R8"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/udbhav-agarwal-9a9531236/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Udbhav8",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Victoria",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "May 2024"
+      }
+    ],
+    "work": [
+      {
+        "company": "Niftory Inc.",
+        "title": "Part-Time Web Development Intern",
+        "years": "Dec 2021 - May 2022",
+        "description": "Conceptualise, architect and lead developer of the gifting mechanism of a Blockchain-centric platform in which the users would get NFT's deposited right into there wallets according to the Brand specifications"
+      },
+      {
+        "company": "Niftory Inc.",
+        "title": "Junior Web Developer",
+        "years": "May 2022 - Present",
+        "description": "Lead developer of the Self-Service Portal for Blockchain-Centric platform, that enables the creation of secure Decentralized Apps (dApp) for Brands/Clients to create, mint and list/sell Non-Fungible Tokens (NFTs) via a web-based user interface "
+      }
+    ],
+    "skills": [
+      {
+        "name": "TypeScript/JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "80%"
+      },
+      {
+        "name": "React",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Web Messaging App",
+        "category": "",
+        "image": "messaging.png",
+        "url": "https://messaging-app-lac.vercel.app"
+      },
+      {
+        "title": "Portfolio Website",
+        "image": "resume-website.png",
+        "url": ""
+      }
+    ]
+  }
+}
