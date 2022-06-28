@@ -43,13 +43,13 @@
         "company": "Niftory Inc.",
         "title": "Part-Time Web Development Intern",
         "years": "Dec 2021 - May 2022",
-        "description": "Architect and lead developer of the gifting mechanism of a Blockchain-centric platform allowing users to directly deposit Non-Fungible Tokens (NFTs) in their wallets according to their brand specifications"
+        "description": "Architect and lead developer of Niftory's gifting mechanism(Airdrops), allowing users to deposit Non-Fungible Tokens (NFTs) directly into their blockchain wallets according to branding/client requirements."
       },
       {
         "company": "Niftory Inc.",
         "title": "Junior Web Developer",
         "years": "May 2022 - Present",
-        "description": "Lead developer of the Self-Service Portal for a Blockchain-Centric platform that enables the creation of secure Decentralized Apps (dApp) for brands/clients to create, mint and list/sell Non-Fungible Tokens (NFTs) via a web-based user interface"
+        "description": "Collaborated with 2 fellow senior developers to create APIs allowing other developers to use Niftory’s backend workflows and designed and built a self-service portal that allows users to create and personalize their client apps according to their unique needs."
       }
     ],
     "skills": [
